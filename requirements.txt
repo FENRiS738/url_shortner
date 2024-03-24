@@ -1,5 +1,8 @@
 fastapi
 uvicorn[standard]
 sqlalchemy
+python-dotenv
 validators
 pymongo[srv]
+mysqlclient
+pymysql
